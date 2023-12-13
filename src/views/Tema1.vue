@@ -94,7 +94,7 @@
     p.mb-5(data-aos="flip-left") En cuanto a empresas del Estado, los principios de buen gobierno, la metodología de gestión del riesgo y el cumplimiento de normas son similares al sector privado, la diferencia principal es que el objetivo no es necesariamente maximizar el valor de los accionistas, sino proveer servicios y productos de acuerdo con los intereses y prioridades definidas por el Estado. Según se describe en DNP (s.f.), la práctica del buen gobierno busca mejores organizaciones, eficiencia de los recursos públicos y procesos de gestión, atracción y promoción de talento humano con excelencia para el servicio público, y mayor transparencia. También se mencionan los principios orientadores del ejercicio del buen gobierno:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-down") 
-      .col-lg-6
+      .col-lg-6.col-md-10.col-12
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema1/tema1-4.svg' alt='')
