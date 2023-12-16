@@ -23,7 +23,7 @@
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Numerales norma ISO 37301 SGC</i>
+          p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Numerales norma ISO 37301 SGC</i>
         figure
           img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema3/fig-4b.svg', :alt='altImg4')
           img.d-block.d-md-none(src='@/assets/curso/temas/tema3/fig-4a.svg', :alt='altImg4') 
@@ -116,7 +116,7 @@
       .col-md-9.col-12
         p La auditoría se trata de un proceso planeado, con objetivo establecido y enfocada en procesos. La auditoría debe ser transparente y hacer parte de un plan de auditoría.
         p En las auditorías, se revisa qué tan confiable es la organización, si respeta los pactos, cumple las promesas organizacionales y las normas. 
-        p La ejecución de la auditoría está a cargo del equipo auditor, con base en los conocimientos de los criterios de “compliance”, los requisitos y el contexto del auditado. 
+        p La ejecución de la auditoría está a cargo del equipo auditor, con base en los conocimientos de los criterios de “#[em compliance]”, los requisitos y el contexto del auditado. 
         p Los auditores deben tener habilidades y competencias para realizar la auditoría y una conducta profesional acorde con su rol, que garantice un ambiente de confianza.
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
@@ -129,7 +129,7 @@
     .row.justify-content-center.mb-5
       .col-12(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
-          p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Proceso de auditoría</i>
+          p.titulo.pb-0.mb-0 <b>Figura 6. </b> <i>Proceso de auditoría</i>
         figure
           img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema3/fig-5a.svg', :alt='altImg5')
           img.d-block.d-md-none(src='@/assets/curso/temas/tema3/fig-5b.svg', :alt='altImg5') 

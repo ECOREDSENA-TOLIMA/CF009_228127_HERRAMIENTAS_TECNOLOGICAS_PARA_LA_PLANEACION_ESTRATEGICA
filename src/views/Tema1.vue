@@ -27,25 +27,34 @@
         figure
           img(src="@/assets/curso/temas/tema1/tema1-2.png", alt="")
 
-    .row.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-down")
-      .col-md-6.col-lg.mb-2.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/icos-a.svg' alt='')
-          .tarjeta.color-primario.w-100
-            .p-4.mt-3
-              h4.text-center Riesgo
-      .col-md-6.col-lg.mb-2.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/icos-b.svg' alt='')
-          .tarjeta.color-primario.w-100
-            .p-4.mt-3
-              h4.text-center Gobierno
-      .col-md-6.col-lg.mb-2.mb-lg-0
-        .tarjeta-avatar
-          img(src='@/assets/curso/temas/tema1/icos-c.svg' alt='')
-          .tarjeta.color-primario.w-100
-            .p-4.mt-3
-              h4.text-center Cumplimiento
+          
+    .row.justify-content-center.mb-5
+      .col-12.col-md-10.col-lg-8(data-aos="fade-left")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Gobierno, Riesgo y Cumplimiento GRC</i>
+        figure
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-1a.svg', alt='En la figura se tiene los engranajes De Riesgo, Gobierno y Cumplimiento.')
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-1b.svg', alt='En la figura se tiene los engranajes De Riesgo, Gobierno y Cumplimiento.') 
+
+    //- .row.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-down")
+    //-   .col-md-6.col-lg.mb-2.mb-lg-0
+    //-     .tarjeta-avatar
+    //-       img(src='@/assets/curso/temas/tema1/icos-a.svg' alt='')
+    //-       .tarjeta.color-primario.w-100
+    //-         .p-4.mt-3
+    //-           h4.text-center Riesgo
+    //-   .col-md-6.col-lg.mb-2.mb-lg-0
+    //-     .tarjeta-avatar
+    //-       img(src='@/assets/curso/temas/tema1/icos-b.svg' alt='')
+    //-       .tarjeta.color-primario.w-100
+    //-         .p-4.mt-3
+    //-           h4.text-center Gobierno
+    //-   .col-md-6.col-lg.mb-2.mb-lg-0
+    //-     .tarjeta-avatar
+    //-       img(src='@/assets/curso/temas/tema1/icos-c.svg' alt='')
+    //-       .tarjeta.color-primario.w-100
+    //-         .p-4.mt-3
+    //-           h4.text-center Cumplimiento
 
 
     Separador
@@ -339,7 +348,7 @@
               .row.justify-content-center.mb-5
                 .col-12(data-aos="fade-left")
                   .titulo-sexto.color-acento-contenido
-                    p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Modelo de capacidad GRC</i>
+                    p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Modelo de capacidad GRC</i>
                   figure
                     img(src='@/assets/curso/temas/tema1/tema1-16.svg', alt='En la figura se tiene en el centro interactuar, alrededor en circulo organizar, evaluar, pro actuar, detectar, responder y medir. En el circulo externo el contexto con diseño y organización, gestión de incertidumbre, operación y continuidad, aprendizaje y monitoreo.')
           .row.justify-content-center(titulo="Modelo COSO")
@@ -349,7 +358,7 @@
               .row.justify-content-center.mb-5
                 .col-12(data-aos="fade-left")
                   .titulo-sexto.color-acento-contenido
-                    p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Modelo COSO</i>
+                    p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Modelo COSO</i>
                   figure
                     img(src='@/assets/curso/temas/tema1/tema1-17.svg', alt='En la figura se tiene un cubo, en la base  se tiene ambiente de control, sobre esta capa evaluación de riesgo, luego actividades de control, posteriormente información y comunicación, por último monitoreo. En la parte superior del cubo se tienen operaciones, informe financiero y cumplimiento, y horizontalmente se tiene Actividad 1 y 2, unidad A y B.')
           .row.justify-content-center(titulo="Modelo de las tres líneas")
@@ -359,7 +368,7 @@
               .row.justify-content-center.mb-5
                 .col-12(data-aos="fade-left")
                   .titulo-sexto.color-acento-contenido
-                    p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Modelo de las tres líneas</i>
+                    p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Modelo de las tres líneas</i>
                   figure
                     img(src='@/assets/curso/temas/tema1/tema1-18.svg', alt='En la figura se tiene en la primera línea de defensa: controles de gerencia, medidas de control interno. En la segunda línea de defensa se tiene: controles financieros, seguridad, gestión de riesgos, calidad, inspección y cumplimiento. En la tercera línea de defensa se tiene la auditoría interna. Sobre las tres líneas se tiene la alta dirección, luego organismo de Gobierno, consejo, comité de auditoría. Paralelamente se realiza auditoría externa y organismos de control.')
           .row.justify-content-center(titulo="Norma ISO 31000:2018")
