@@ -173,7 +173,8 @@ export default {
   data: () => ({
     // variables de vue
 
-    altImg4: `En la figura se tiene:
+    altImg4: `Figura 5. Numerales norma ISO 37301 SGC
+En la figura se tiene:
 ACTUAR 
 10 Mejora.
 PLANIFICAR
@@ -185,7 +186,8 @@ HACER
 8 Operación.
 VERIFICAR
 9 Evaluación del desempeño.`,
-    altImg5: `En la figura se representa:
+    altImg5: `Figura 6. Proceso de auditoría
+En la figura se representa:
 En la parte izquierda las entradas:
 Auditores competentes
 Conocimiento de la norma

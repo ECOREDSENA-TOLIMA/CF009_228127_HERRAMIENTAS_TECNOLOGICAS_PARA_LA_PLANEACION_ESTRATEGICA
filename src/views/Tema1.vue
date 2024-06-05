@@ -350,7 +350,7 @@
                   .titulo-sexto.color-acento-contenido
                     p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Modelo de capacidad GRC</i>
                   figure
-                    img(src='@/assets/curso/temas/tema1/tema1-16.svg', alt='En la figura se tiene en el centro interactuar, alrededor en circulo organizar, evaluar, pro actuar, detectar, responder y medir. En el circulo externo el contexto con diseño y organización, gestión de incertidumbre, operación y continuidad, aprendizaje y monitoreo.')
+                    img(src='@/assets/curso/temas/tema1/tema1-16.svg', alt='En la figura 2 se tiene en el centro interactuar, alrededor en circulo organizar, evaluar, pro actuar, detectar, responder y medir. En el circulo externo el contexto con diseño y organización, gestión de incertidumbre, operación y continuidad, aprendizaje y monitoreo.')
           .row.justify-content-center(titulo="Modelo COSO")
             .col-12
               p Para gestión de riesgos. Sus siglas responden a #[em Committee of Sponsoring Organizations of the Treadway] (COSO, 2017), que es una organización de carácter voluntario constituida por representantes de cinco organizaciones del sector privado en Estados Unidos. Nace en 1985 con la misión de crear y proporcionar conocimiento frente a la gestión del riesgo empresarial (ERM), el control interno y la lucha contra el fraude.
@@ -360,7 +360,7 @@
                   .titulo-sexto.color-acento-contenido
                     p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Modelo COSO</i>
                   figure
-                    img(src='@/assets/curso/temas/tema1/tema1-17.svg', alt='En la figura se tiene un cubo, en la base  se tiene ambiente de control, sobre esta capa evaluación de riesgo, luego actividades de control, posteriormente información y comunicación, por último monitoreo. En la parte superior del cubo se tienen operaciones, informe financiero y cumplimiento, y horizontalmente se tiene Actividad 1 y 2, unidad A y B.')
+                    img(src='@/assets/curso/temas/tema1/tema1-17.svg', alt='En la figura 3 se tiene un cubo, en la base  se tiene ambiente de control, sobre esta capa evaluación de riesgo, luego actividades de control, posteriormente información y comunicación, por último monitoreo. En la parte superior del cubo se tienen operaciones, informe financiero y cumplimiento, y horizontalmente se tiene Actividad 1 y 2, unidad A y B.')
           .row.justify-content-center(titulo="Modelo de las tres líneas")
             .col-12
               p Promueve un gobierno sólido y la gestión de riesgos (IIA, 2020). El IIA Instituto de Auditores Internos, en el año 2020, actualizó el modelo de gestión de riesgo y control, “Modelo de las tres líneas de defensa”, por un modelo de interconexión de los roles: Órgano de Gobierno, Gerencia y Auditoría Interna, para asegurar las condiciones de cumplimiento de la organización.
@@ -370,7 +370,7 @@
                   .titulo-sexto.color-acento-contenido
                     p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Modelo de las tres líneas</i>
                   figure
-                    img(src='@/assets/curso/temas/tema1/tema1-18.svg', alt='En la figura se tiene en la primera línea de defensa: controles de gerencia, medidas de control interno. En la segunda línea de defensa se tiene: controles financieros, seguridad, gestión de riesgos, calidad, inspección y cumplimiento. En la tercera línea de defensa se tiene la auditoría interna. Sobre las tres líneas se tiene la alta dirección, luego organismo de Gobierno, consejo, comité de auditoría. Paralelamente se realiza auditoría externa y organismos de control.')
+                    img(src='@/assets/curso/temas/tema1/tema1-18.svg', alt='En la figura 4 se tiene en la primera línea de defensa: controles de gerencia, medidas de control interno. En la segunda línea de defensa se tiene: controles financieros, seguridad, gestión de riesgos, calidad, inspección y cumplimiento. En la tercera línea de defensa se tiene la auditoría interna. Sobre las tres líneas se tiene la alta dirección, luego organismo de Gobierno, consejo, comité de auditoría. Paralelamente se realiza auditoría externa y organismos de control.')
           .row.justify-content-center(titulo="Norma ISO 31000:2018")
             .col-12
               p Contiene los principios y guías para la gestión de riesgo, y define el riesgo, no de la manera tradicional, enfocado en las posibles pérdidas, sino como el efecto de la incertidumbre en los objetivos de la empresa (ISO, 2018). La ISO 31000:2018, aunque no es certificable, permite a las organizaciones de todos los sectores, sin importar que sean públicas o privadas, incorporar estándares y procesos de alto nivel para evaluar y mitigar cualquier tipo de riesgo en todas sus operaciones.
@@ -389,7 +389,7 @@
           .anexo__texto
             p #[b Descargar.] Marcos y estándares GRC
           
-    p.mb-5(data-aos="fade-down-right") Como se vio, son varias las organizaciones de profesionales que han trabajado en los últimos años en el desarrollo y madurez de normas y marcos de referencia. Estas organizaciones, además, ofrecen permanente formación a los asociados y profesionales interesados en adquirir las habilidades y competencias, también ofrecen exámenes de certificación en dichos marcos y normas, con el fin de que los profesionales demuestren su idoneidad para desempeñarse como consultores de los temas de riesgo y cumplimiento. 
+    p.mb-5(data-aos="fade-down-right") De acuerdo con la información anterior, son varias las organizaciones de profesionales que han trabajado en los últimos años en el desarrollo y madurez de normas y marcos de referencia. Estas organizaciones, además, ofrecen permanente formación a los asociados y profesionales interesados en adquirir las habilidades y competencias, también ofrecen exámenes de certificación en dichos marcos y normas, con el fin de que los profesionales demuestren su idoneidad para desempeñarse como consultores de los temas de riesgo y cumplimiento. 
 
 
       
